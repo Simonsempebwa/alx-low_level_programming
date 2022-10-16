@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdlib.h>
 #include <time.h>
 /**
  * main - prints if thr remainder is positive, negative or 0
