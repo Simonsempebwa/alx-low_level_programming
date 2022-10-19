@@ -1,9 +1,10 @@
 #include "main.h"
  /**
   * print_alphabet_x10 -prints laphabet 10 times
+  * Description: prints laphabet
   * @void: prints laphabet 10 times
   */
-void print_alphabet_x10(void)
+void print_alphabet_x10(void);
 {
 	int ten;
 	char l;
