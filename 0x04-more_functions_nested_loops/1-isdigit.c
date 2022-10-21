@@ -5,12 +5,12 @@
  * @c: int to be checked
  * Return: 1 if c is a digit, 0 otherwise
  */
-int_isdigit(int c)
+int _isdigit(int c)
 {
-	int s = 0;
+	int y = 0;
 
 	if (c >= '0' && c <= '9')
-		s = 1;
+		y = 1;
 
-	return (s);
+	return (y);
 }
